@@ -1,6 +1,7 @@
 site_name: AURORA SA60L 维修工艺
 nav:
-    - 一般飞机维修: chap1.md
+    - 基本描述 : chap1.md
+    - 地面操纵、维护、清理、润滑和检查: chap2.md
 theme: material
 plugins:
   - search:
