@@ -1,0 +1,8 @@
+site_name: AURORA SA60L 维修工艺
+nav:
+    - 一般飞机维修: chap1.md
+theme: material
+plugins:
+  - search:
+      separator: '[\s\u200b\-]'
+
