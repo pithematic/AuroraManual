@@ -2,6 +2,26 @@ site_name: AURORA SA60L 维修工艺
 nav:
     - 基本描述 : chap1.md
     - 地面操纵、维护、清理、润滑和检查: chap2.md
+    - 结构——机身: chap3.md
+    - 结构——机翼和尾翼: chap4.md
+    - 结构——起落架和刹车: chap5.md
+    - 结构——副翼控制系统: chap6.md
+    - 结构——襟翼控制系统 : chap7.md
+    - 结构——升降舵控制系统 : chap8.md
+    - 结构——配平控制系统 : chap9.md
+    - 结构——方向舵控制系统 : chap10.md
+    - 发动机: chap11.md
+    - 燃油系统: chap12.md
+    - 螺旋桨: chap13.md
+
+    - 实用系统: chap14.md
+    - 仪器仪表系统: chap15.md
+    - 电气系统: chap16.md
+    - 结构维修: chap17.md
+    - 飞机涂装: chap18.md
+    - 附录一  电气接线图: chap19.md
+    - 附录二  附图零件品名品号对照表: chap20.md
+    - 附录三 回馈表 : chap21.md
 theme: material
 plugins:
   - search:
